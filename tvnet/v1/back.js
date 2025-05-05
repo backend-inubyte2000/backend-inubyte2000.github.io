@@ -12,12 +12,12 @@ function getchannels() {
         ["https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-inubyte2000.github.io/tvnet/v1/ch9.png"],
         ["http://vthanh.utako.moe/NHK_G/index.m3u8", "https://backend-inubyte2000.github.io/tvnet/v1/ch10.png"],
         ["http://vthanh.utako.moe/NHK_E/index.m3u8", "https://backend-inubyte2000.github.io/tvnet/v1/ch11.png"],
-        ["https://ntv4.mov3.co/hls/ntv.m3u8", "https://backend-inubyte2000.github.io/tvnet/v1/ch12.png"],
+        ["http://vthanh.utako.moe/Nippon_TV/index.m3u8", "https://backend-inubyte2000.github.io/tvnet/v1/ch12.png"],
         ["http://vthanh.utako.moe/TV_Asahi/index.m3u8", "https://backend-inubyte2000.github.io/tvnet/v1/ch13.png"],
         ["https://tbs5.mov3.co/hls/tbs.m3u8", "https://backend-inubyte2000.github.io/tvnet/v1/ch14.png"],
         ["http://vthanh.utako.moe/TV_Tokyo/index.m3u8", "https://backend-inubyte2000.github.io/tvnet/v1/ch15.png"],
         ["https://fujitv4.mov3.co/hls/fujitv.m3u8", "https://backend-inubyte2000.github.io/tvnet/v1/ch16.png"],
-        ["https://ok.ru/videoembed/9904454246135", "https://backend-inubyte2000.github.io/tvnet/v1/ch17.png"]
+        ["http://vthanh.utako.moe/Tokyo_MX1/index.m3u8", "https://backend-inubyte2000.github.io/tvnet/v1/ch17.png"]
     ];
     return channels;
 }
