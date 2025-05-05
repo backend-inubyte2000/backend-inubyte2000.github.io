@@ -22,7 +22,7 @@ http://vthanh.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-id="ch11", NHK E
 http://vthanh.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 tvg-id="ch12", NTV
-https://ntv4.mov3.co/hls/ntv.m3u8
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-id="ch13", TV Asahi
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 tvg-id="ch14", TBS
@@ -32,4 +32,4 @@ http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-id="ch16", Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="ch17", Tokyo MX
-https://ok.ru/videoembed/9904454246135
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
