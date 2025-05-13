@@ -24,12 +24,12 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-id="ch12", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="ch13", SBT
-http://null.com/index.m3u8
+https://www.youtube.com/embed/mBvpA1gOUos
 #EXTINF:-1 tvg-id="ch14", RTP Memoria
 https://www.rtp.pt/play/direto/rtpmemoria
 #EXTINF:-1 tvg-id="ch15", TVI ficao
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ch15", Rede Brasil
+#EXTINF:-1 tvg-id="ch16", Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w397838706.m3u8
-#EXTINF:-1 tvg-id="ch16", Anime
+#EXTINF:-1 tvg-id="ch17", Anime
 https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
