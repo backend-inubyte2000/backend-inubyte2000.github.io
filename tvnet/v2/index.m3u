@@ -7,29 +7,29 @@ https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/5f36d7262
 http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="ch4", Weather Channel
 http://v1.weatherscan.net/
-#EXTINF:-1 tvg-id="ch5", Vevo
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+#EXTINF:-1 tvg-id="ch5", TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="ch6", Cartoon Network
 https://retroblast.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ch7", Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="ch8", Paramount
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
-#EXTINF:-1 tvg-id="ch9", NHk World
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:-1 tvg-id="ch9", AWE Encore
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 tvg-id="ch10", RTP 1
 https://www.rtp.pt/play/direto/rtp1
 #EXTINF:-1 tvg-id="ch11", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-id="ch12", TV Cultura
+#EXTINF:-1 tvg-id="ch12", Channel 12
+http://null.com/index.m3u8
+#EXTINF:-1 tvg-id="ch13", Channel 13
+http://null.com/index.m3u8
+#EXTINF:-1 tvg-id="ch14", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="ch13", SBT
+#EXTINF:-1 tvg-id="ch15", Channel 15
+http://null.com/index.m3u8
+#EXTINF:-1 tvg-id="ch16", SBT
 https://www.youtube.com/embed/mBvpA1gOUos
-#EXTINF:-1 tvg-id="ch14", RTP Memoria
-https://www.rtp.pt/play/direto/rtpmemoria
-#EXTINF:-1 tvg-id="ch15", TVI ficao
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ch16", Rede Brasil
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w397838706.m3u8
-#EXTINF:-1 tvg-id="ch17", Anime
-https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="ch17", Channel 17
+http://null.com/index.m3u8
