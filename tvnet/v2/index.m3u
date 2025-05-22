@@ -13,23 +13,23 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 https://retroblast.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ch7", Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="ch8", Paramount
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 #EXTINF:-1 tvg-id="ch9", AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-#EXTINF:-1 tvg-id="ch9", KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
-#EXTINF:-1 tvg-id="ch10", KBS 1
-http://mytv.dothome.co.kr/ch/catv/1.php
-#EXTINF:-1 tvg-id="ch11", KBS 2
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 tvg-id="ch12", EBS 1
-https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ch13", EBS 2
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ch14", MBS
-http://www.hwado.net/webtv/catv/502_76142D8F.php
-#EXTINF:-1 tvg-id="ch15", SBS
-http://www.hwado.net/webtv/catv/503_CFEA7803.php
-#EXTINF:-1 tvg-id="ch16", Channel A
-http://www.hwado.net/webtv/catv/52_440DDPPJ.php
-#EXTINF:-1 tvg-id="ch17", DPRK
-https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-id="ch10", RTP 1
+https://www.rtp.pt/play/direto/rtp1
+#EXTINF:-1 tvg-id="ch11", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="ch12", SIC Noticias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 tvg-id="ch13", TVI Ficao
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="ch14", TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="ch15", Record TV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="ch16", SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="ch17", Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
