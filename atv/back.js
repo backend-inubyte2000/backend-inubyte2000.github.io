@@ -1,1 +1,6 @@
-//add code here
+﻿function getchannels() {
+    let channeldb = [
+        ["NULL", "NULL"]
+    ];
+    return channeldb;
+}
