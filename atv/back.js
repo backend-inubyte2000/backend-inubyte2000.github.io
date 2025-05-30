@@ -8,7 +8,7 @@
 }
 
 function checkupdate() {
-    needupdate = 1;
+    needupdate = 0;
     return needupdate;
 }
 
