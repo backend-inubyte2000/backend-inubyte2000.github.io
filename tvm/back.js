@@ -67,7 +67,7 @@ function getinfo() {
         ["FUJITV", "https://backend-inubyte2000.github.io/tvnet/v2/ch16.gif"],
         ["TOKYOMX", "https://backend-inubyte2000.github.io/tvnet/v2/ch17.gif"]
     ];
-    return channels;
+    return chdb;
 }
 
 function getupdate() {
