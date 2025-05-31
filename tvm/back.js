@@ -24,24 +24,24 @@ function getchannels() {
 
 function getbox() {
     channels = [
-        ["https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"],
-        ["NULL"],
-        ["https://therokuchannel.roku.com/watch/34335ef32c02519d897664a78767cc59"],
-        ["http://fl4.moveonjoy.com/NEWS_NATION/index.m3u8"],
-        ["http://v1.weatherscan.net/"],
-        ["https://pluto.tv/us/live-tv/62ba60f059624e000781c436"],
-        ["https://retroblast.tv/hls/stream.m3u8"],
-        ["http://api.toonamiaftermath.com:3000/est/playlist.m3u8"],
-        ["https://pluto.tv/us/live-tv/5fd7bca3e0a4ee0007a38e8c"],
-        ["https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"],
-        ["http://vthanh.utako.moe/NHK_G/index.m3u8"],
-        ["http://vthanh.utako.moe/NHK_E/index.m3u8"],
-        ["http://vthanh.utako.moe/Nippon_TV/index.m3u8"],
-        ["http://vthanh.utako.moe/TV_Asahi/index.m3u8"],
-        ["https://tbs5.mov3.co/hls/tbs.m3u8"],
-        ["http://vthanh.utako.moe/TV_Tokyo/index.m3u8"],
-        ["http://vthanh.utako.moe/Fuji_TV/index.m3u8"],
-        ["http://vthanh.utako.moe/Tokyo_MX1/index.m3u8"]
+        "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+        "NULL",
+        "https://therokuchannel.roku.com/watch/34335ef32c02519d897664a78767cc59",
+        "http://fl4.moveonjoy.com/NEWS_NATION/index.m3u8",
+        "http://v1.weatherscan.net/",
+        "https://pluto.tv/us/live-tv/62ba60f059624e000781c436",
+        "https://retroblast.tv/hls/stream.m3u8",
+        "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+        "https://pluto.tv/us/live-tv/5fd7bca3e0a4ee0007a38e8c",
+        "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+        "http://vthanh.utako.moe/NHK_G/index.m3u8",
+        "http://vthanh.utako.moe/NHK_E/index.m3u8",
+        "http://vthanh.utako.moe/Nippon_TV/index.m3u8",
+        "http://vthanh.utako.moe/TV_Asahi/index.m3u8",
+        "https://tbs5.mov3.co/hls/tbs.m3u8",
+        "http://vthanh.utako.moe/TV_Tokyo/index.m3u8",
+        "http://vthanh.utako.moe/Fuji_TV/index.m3u8",
+        "http://vthanh.utako.moe/Tokyo_MX1/index.m3u8"
     ];
     return channels;
 }
