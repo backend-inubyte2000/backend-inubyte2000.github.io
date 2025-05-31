@@ -45,3 +45,37 @@ function getbox() {
     ];
     return channels;
 }
+
+function getinfo() {
+    chdb = [
+        ["NULL", "No Info"],
+        ["NULL", "No Info"],
+        ["PBS", "Educational Programming"],
+        ["NEWSNAT", "https://backend-inubyte2000.github.io/tvnet/v2/ch3.png"],
+        ["WEATHER", "https://backend-inubyte2000.github.io/tvnet/v2/ch4.png"],
+        ["00REPLAY", "https://backend-inubyte2000.github.io/tvnet/v2/ch5.png"],
+        ["CARNET", "https://backend-inubyte2000.github.io/tvnet/v2/ch6.png"],
+        ["TOONAMI", "https://backend-inubyte2000.github.io/tvnet/v2/ch7.png"],
+        ["VEVOY2K", "https://backend-inubyte2000.github.io/tvnet/v2/ch8.png"],
+        ["NHKWORL", "https://backend-inubyte2000.github.io/tvnet/v2/ch9.png"],
+        ["NHKG", "https://backend-inubyte2000.github.io/tvnet/v2/ch10.gif"],
+        ["NHKE", "https://backend-inubyte2000.github.io/tvnet/v2/ch11.gif"],
+        ["NTV", "https://backend-inubyte2000.github.io/tvnet/v2/ch12.gif"],
+        ["TVASAHI", "https://backend-inubyte2000.github.io/tvnet/v2/ch13.gif"],
+        ["TBS", "https://backend-inubyte2000.github.io/tvnet/v2/ch14.gif"],
+        ["TVTOKYO", "https://backend-inubyte2000.github.io/tvnet/v2/ch15.gif"],
+        ["FUJITV", "https://backend-inubyte2000.github.io/tvnet/v2/ch16.gif"],
+        ["TOKYOMX", "https://backend-inubyte2000.github.io/tvnet/v2/ch17.gif"]
+    ];
+    return channels;
+}
+
+function getupdate() {
+    update = 0;
+    return update
+}
+
+function getupdateurl() {
+    updateurl = "";
+    return updateurl
+}
