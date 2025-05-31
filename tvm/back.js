@@ -1,8 +1,8 @@
 function getchannels() {
     channels = [
-        ["https://therokuchannel.roku.com/watch/34335ef32c02519d897664a78767cc59", "loading.gif"],
+        ["https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8", "loading.gif"],
         ["NULL", "NULL"],
-        ["https://osm-use2.sr.roku.com/osm/v1/hls/use2/variant/929552e0c0b64d2c8292207463d052eb/live_720.m3u8", "https://backend-inubyte2000.github.io/tvm/ch2.png"],
+        ["https://therokuchannel.roku.com/watch/34335ef32c02519d897664a78767cc59", "https://backend-inubyte2000.github.io/tvm/ch2.png"],
         ["http://fl4.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-inubyte2000.github.io/tvm/ch3.png"],
         ["http://v1.weatherscan.net/", "https://backend-inubyte2000.github.io/tvm/ch4.png"],
         ["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be", "https://backend-inubyte2000.github.io/tvm/ch5.png"],
