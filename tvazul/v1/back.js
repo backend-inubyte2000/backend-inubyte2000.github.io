@@ -22,6 +22,8 @@
         ["https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvcultura.svg"],
         ["https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1441945147.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/redebrasil.png"],
         ["https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", "https://backend-inubyte2000.github.io/tvazul/v1/banners/anime.png"],
+        ["NULL", "NULL"],
+        ["NULL", "NULL"],
     ];
     return channeldb;
 }
