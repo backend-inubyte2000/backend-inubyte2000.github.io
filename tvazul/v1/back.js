@@ -10,7 +10,6 @@
         ["https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/awe.png"],
         ["https://www.rtp.pt/play/direto/rtp1", "https://backend-inubyte2000.github.io/tvazul/v1/banners/rtp1.svg"],
         ["https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/rtp2.svg"],
-        ["https://www.rtp.pt/play/direto/rtp3", "https://backend-inubyte2000.github.io/tvazul/v1/banners/rtp3.svg"],
         ["https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/sic.png"],
         ["https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/sicnoticias.svg"],
         ["https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvi.png"],
