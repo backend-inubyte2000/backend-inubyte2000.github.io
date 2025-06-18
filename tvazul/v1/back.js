@@ -20,14 +20,6 @@
         ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/recordtv.png"],
         ["https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/6806d62369aec5b19cd628c0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", "https://backend-inubyte2000.github.io/tvazul/v1/banners/hiya.svg"],
         ["https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", "https://backend-inubyte2000.github.io/tvazul/v1/banners/anime.png"],
-        ["http://mytv.dothome.co.kr/ch/catv/7.php", "https://backend-inubyte2000.github.io/tvazul/v1/banners/kbsworld.png"],
-        ["http://mytv.dothome.co.kr/ch/catv/1.php", "https://backend-inubyte2000.github.io/tvazul/v1/banners/kbs1.png"],
-        ["http://mytv.dothome.co.kr/ch/catv/3.php", "https://backend-inubyte2000.github.io/tvazul/v1/banners/kbs2.png"],
-        ["https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/ebs1.png"],
-        ["https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/ebs2.png"],
-        ["http://www.hwado.net/webtv/catv/503_CFEA7803.php", "https://backend-inubyte2000.github.io/tvazul/v1/banners/mbc.png"],
-        ["https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/sbs.png"],
-        ["https://tv.nknews.org/tvhls/stream.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/dprk.png"],
     ];
     return channeldb;
 }
