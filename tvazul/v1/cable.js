@@ -51,6 +51,7 @@ function getchannels2() {
 
 function getchinfo() {
     let chinfodb = [
+        ["Channel Name", "Channel Description"],
         ["Bob Ross", "24/7 Joy of Painting"],
         ["News Nation", "Non bias news 24/7"],
         ["Weather Scan", "24/7 Weather Service"],
@@ -69,6 +70,7 @@ function getchinfo() {
         ["V+", "Telenovelas e reality shows"],
         ["TDM", "TV de Macau"],
         ["Record TV", "Telenovelas e conteúdos gerais"],
+        ["Channel Name", "Channel Description"],
     ];
     return chinfodb;
 }
