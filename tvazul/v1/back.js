@@ -16,10 +16,6 @@
         ["https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvificao.png"],
         ["https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvireality.png"],
         ["https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/vplus.png"],
-        ["https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tdm.png"],
-        ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/recordtv.png"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
     ];
     return channeldb;
 }
