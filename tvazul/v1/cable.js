@@ -9,7 +9,6 @@
         ["index3.html#https://fl3.moveonjoy.com/FREE_FORM/index.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/freeform.svg"],
         ["index3.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/cn.png"],
         ["index3.html#https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/awe.png"],
-        ["index2.html#https://www.rtp.pt/play/direto/rtp1", "https://backend-inubyte2000.github.io/tvazul/v1/banners/rtp1.svg"],
         ["index3.html#https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/rtp2.svg"],
         ["index3.html#https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/sic.png"],
         ["index3.html#https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/sicnoticias.svg"],
@@ -17,6 +16,7 @@
         ["index3.html#https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvificao.png"],
         ["index3.html#https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvireality.png"],
         ["index3.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/vplus.png"],
+        ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/recordtv.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;
@@ -34,14 +34,12 @@ function getchinfo() {
         ["Cartoon Network", "Cartoons for all ages"],
         ["AWE Encore", "Travel content 24/7"],
         ["RTP 1", "Conteúdo geral"],
-        ["RTP 2", "Conteúdo diverso"],
         ["SIC", "Tele novelas"],
         ["SIC Notocias", "Cobertura noticiosa 24-7"],
         ["TVi", "Telenovelas e reality shows"],
         ["TVi Ficao", "Telenovelas"],
         ["TVi Reality", "Reality shows"],
         ["V+", "Telenovelas e reality shows"],
-        ["TDM", "TV de Macau"],
         ["Record TV", "Telenovelas e conteúdos gerais"],
         ["Channel Name", "Channel Description"],
     ];
