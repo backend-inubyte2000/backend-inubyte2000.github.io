@@ -5,6 +5,10 @@
         ["index2.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-inubyte2000.github.io/ieyasu/v0/ch2.gif"],
         ["index3.html#http://fl4.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-inubyte2000.github.io/ieyasu/v0/ch3.gif"],
         ["index2.html#http://v1.weatherscan.net/", "https://backend-inubyte2000.github.io/ieyasu/v0/ch4.gif"],
+        ["index3.html#", "nochan.gif"],
+        ["index3.html#", "nochan.gif"],
+        ["index3.html#", "nochan.gif"],
+        ["index3.html#", "nochan.gif"],
         ["index.html", "NULL"],
     ];
     return channeldb;
