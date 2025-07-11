@@ -16,6 +16,14 @@
         ["https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvireality.png"],
         ["https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/vplus.png"],
         ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/recordtv.png"],
+        ["https://www.youtube.com/embed/euK-YdswCQY", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvpworld.png"],
+        ["https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvp1.png"],
+        ["https://meta.vcdn.biz/4781110f8e6ceebe2a6717dfb501a0fc_megogo/live/hls/b/700_2490/u_sid/0/o/199953021/rsid/7a2ec9a0-7f2e-481b-bedb-74d433f1ec63/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/95.214.217.241*asn/u_srvc/81255/u_did/web_xcMP58ms6wiiBJAFHOZwpN2RU5h8k4Cd/type.live/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvp2.png"],
+        ["https://meta.vcdn.biz/3b30799f5a8692e911e8b5648a086714_megogo/live/hls/b/700_2490/u_sid/0/o/199953841/rsid/437ac8dc-9174-4e75-b757-965707c4ee76/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/95.214.217.241*asn/u_srvc/81255/u_did/web_xcMP58ms6wiiBJAFHOZwpN2RU5h8k4Cd/type.live/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvp3.png"],
+        ["https://meta.vcdn.biz/b67ba3231099a5f671aa9c86e860c853_megogo/live/hls/b/700_2490/u_sid/0/o/160222531/rsid/03345912-33f2-4ab5-9daa-b6fd5241cdd7/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/95.214.217.241*asn/u_srvc/81255/u_did/web_xcMP58ms6wiiBJAFHOZwpN2RU5h8k4Cd/type.live/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/polsat.png"],
+        ["https://meta.vcdn.biz/6c4af6f01c63b5c189c5c4fd2b804b76_megogo/live/hls/b/700_2490/u_sid/0/o/160168951/rsid/b0dae85c-11eb-42cd-ba0b-e61b923aa86b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/193.42.98.10*asn/u_srvc/81255/u_did/web_xcMP58ms6wiiBJAFHOZwpN2RU5h8k4Cd/type.live/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tv4.png"],
+        ["https://meta.vcdn.biz/5e6af30db7482a3cf8f068134e6a1a4e_megogo/live/hls/b/700_2490/u_sid/0/o/157324701/rsid/2c1589e4-1f6c-4055-8cf8-eb78396ee450/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/193.42.98.10*asn/u_srvc/81255/u_did/web_xcMP58ms6wiiBJAFHOZwpN2RU5h8k4Cd/type.live/playlist.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/tvpuls.svg"],
+        ["https://stream.4fun.tv:8888/hls/4f.m3u8", "https://backend-inubyte2000.github.io/tvazul/v1/banners/4fun.png"],
     ];
     return channeldb;
 }
