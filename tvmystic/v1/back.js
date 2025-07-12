@@ -10,7 +10,6 @@
         ["https://asp7.toonamiaftermath.com/livehttporigin/est/Ibd7c5-gf2dVw-playlist.m3u8", "https://backend-inubyte2000.github.io/ieyasu/v0/ch7.gif"],
         ["#", "nochan.gif"],
         ["#", "nochan.gif"],
-        ["#", "nochan.gif"],
     ];
     return channeldb;
 }
