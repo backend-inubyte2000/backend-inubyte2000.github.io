@@ -9,7 +9,7 @@
         ["index3.html#", "nochan.gif"],
         ["index3.html#https://asp7.toonamiaftermath.com/livehttporigin/est/Ibd7c5-gf2dVw-playlist.m3u8", "https://backend-inubyte2000.github.io/ieyasu/v0/ch7.gif"],
         ["index3.html#", "nochan.gif"],
-        ["index3.html#", "nochan.gif"],
+        ["index3.html#", "https://backend-inubyte2000.github.io/ieyasu/v0/ch9.gif"],
         ["index.html", "NULL"],
     ];
     return channeldb;
