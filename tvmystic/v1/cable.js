@@ -9,6 +9,7 @@
         ["index3.html#", "nochan.gif"],
         ["index3.html#https://asp7.toonamiaftermath.com/livehttporigin/est/Ibd7c5-gf2dVw-playlist.m3u8", "https://backend-inubyte2000.github.io/ieyasu/v0/ch7.gif"],
         ["index3.html#", "nochan.gif"],
+        ["index3.html#", "nochan.gif"],
         ["index.html", "NULL"],
     ];
     return channeldb;
@@ -24,6 +25,7 @@ function getchinfo() {
         ["Channel Name", "Channel Description"],
         ["Channel Name", "Channel Description"],
         ["Toonami", "24/7 Cartoons and Anime"],
+        ["Channel Name", "Channel Description"],
         ["Channel Name", "Channel Description"],
         ["Channel Name", "Channel Description"],
     ];
